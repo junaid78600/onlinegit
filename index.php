@@ -1,4 +1,4 @@
 <?php
 
-echo "M junaid Akhtar"
+echo "M junaid Akhtar Bhatti"
 ?>
